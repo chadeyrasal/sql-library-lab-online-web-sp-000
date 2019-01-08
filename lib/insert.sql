@@ -29,9 +29,9 @@ INSERT INTO subgenres (name) VALUES ("medieval");
 INSERT INTO subgenres (name) VALUES ("space opera");
 
 INSERT INTO authors (name) VALUES ("George R. R. Martin");
-INSERT INTO authors (name) VALUES ();
+INSERT INTO authors (name) VALUES ("Second Author");
 
---INSERT INTO authors (id, name) VALUES (1, ), (2, "Second Author");
+--INSERT INTO authors (id, name) VALUES (1, ), (2, );
 
 --INSERT INTO character_books (id, book_id, character_id) VALUES (1, 1, 1), (2, 1, 2), (3, 2, 2), (4, 3, 2), (5, 1, 3), (6, 2, 3), (7, 3, 3), (8, 1, 4);
 
