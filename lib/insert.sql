@@ -1,7 +1,7 @@
-INSERT INTO series (title, author_id, subgenre_id)
-  VALUES ("A Song of Ice and Fire", 1, 1);
-INSERT INTO series (title, author_id, subgenre_id)
-  VALUES ("Second Series", 2, 2);
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("A Song of Ice and Fire", 1, 1);
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("Second Series", 2, 2);
+
+
 
 --INSERT INTO subgenres (id, name) VALUES (1, "medieval"), (2, "space opera");
 
