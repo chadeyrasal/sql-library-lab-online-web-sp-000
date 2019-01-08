@@ -8,6 +8,22 @@ INSERT INTO books (title, year, series_id) VALUES ("First Book", 2002, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Second Book", 2003, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Third Book", 2005, 2);
 
+INSERT INTO characters (name, motto, species, author_id, series_id)
+VALUES ();
+INSERT INTO characters (name, motto, species, author_id, series_id)
+VALUES ();
+INSERT INTO characters (name, motto, species, author_id, series_id)
+VALUES ();
+INSERT INTO characters (name, motto, species, author_id, series_id)
+VALUES ();
+INSERT INTO characters (name, motto, species, author_id, series_id)
+VALUES ();
+INSERT INTO characters (name, motto, species, author_id, series_id)
+VALUES ();
+INSERT INTO characters (name, motto, species, author_id, series_id)
+VALUES ();
+INSERT INTO characters (name, motto, species, author_id, series_id)
+VALUES ();
 
 --INSERT INTO subgenres (id, name) VALUES (1, "medieval"), (2, "space opera");
 
