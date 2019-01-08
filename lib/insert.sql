@@ -1,5 +1,5 @@
 INSERT INTO series (title, author_id, subgenre_id)
-  VALUES ();
+  VALUES ("A Song of Ice and Fire", 1, 1);
 INSERT INTO series (title, author_id, subgenre_id)
   VALUES ();
 
