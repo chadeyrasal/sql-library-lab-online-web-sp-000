@@ -13,9 +13,9 @@ VALUES ("Lady", "Woof Woof", "direwolf", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id)
 VALUES ("Tyrion Lannister", "A Lannister always pays his debts", "human", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id)
-VALUES ();
+VALUES ("Daenerys Targaryen", "If I look back I am lost", "human", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id)
-VALUES ();
+VALUES ("Eddard Stark", "Winter is coming", "human", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id)
 VALUES ();
 INSERT INTO characters (name, motto, species, author_id, series_id)
@@ -29,7 +29,7 @@ VALUES ();
 
 --INSERT INTO authors (id, name) VALUES (1, "George R. R. Martin"), (2, "Second Author");
 
---(1, ), (2, ), (3, "Daenerys Targaryen", "If I look back I am lost", "human", 1, 1), (4, "Eddard Stark", "Winter is coming", "human", 1, 1);
+--(1, ), (2, ), (3, ), (4, );
 
 --INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES (5, "Character One", "motto one", "cylon", 2, 2), (6, "Character Two", "motto two", "human", 2, 2), (7, "Character Three", "motto three", "cylon", 2, 2), (8, "Character Four", "motto four", "cylon", 2, 2);
 
