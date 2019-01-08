@@ -28,7 +28,8 @@ VALUES ("Character Four", "motto four", "cylon", 2, 2);
 INSERT INTO subgenres (name) VALUES ("medieval");
 INSERT INTO subgenres (name) VALUES ("space opera");
 
---INSERT INTO subgenres (id, name) VALUES (1, ), (2, "space opera");
+INSERT INTO authors (name) VALUES ();
+INSERT INTO authors (name) VALUES ();
 
 --INSERT INTO authors (id, name) VALUES (1, "George R. R. Martin"), (2, "Second Author");
 
